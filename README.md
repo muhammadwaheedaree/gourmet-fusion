@@ -3,7 +3,7 @@
 Welcome to **Gourmet Fusion** – a modern and elegant restaurant website that showcases the essence of culinary excellence. Built with Next.js, TypeScript, and Tailwind CSS, this project is designed to offer an immersive experience for food lovers, with a responsive layout and smooth user interface. The website is deployed on Vercel for easy access and quick performance.
 
 ### 🌐 Live Demo
-Check out the live website here: [Gourmet Fusion](https://gourmetfusion.vercel.app/)
+Check out the live website here: [Gourmet Fusion](https://gourmet-fusion.vercel.app/)
 
 ---
 
